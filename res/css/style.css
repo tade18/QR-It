@@ -7,7 +7,7 @@
     font-size: xx-large;
 }
 body{
-    background-color: #272932;
+    background-color: #0e173f;
     display: flex;
     justify-content: center;
 }
@@ -19,7 +19,7 @@ body{
     border-radius: 15px;
     margin-top: 5%;
     padding: 1em;
-    box-shadow: black 0 20px 20px;
+    box-shadow: rgb(2, 11, 27) 0 20px 20px;
 }
 #inputBox{
     display: flex;
